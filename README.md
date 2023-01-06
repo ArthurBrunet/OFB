@@ -18,7 +18,7 @@ Dechiffrement: `java -jar OFB_Arthur.jar -d 7 10101010 .\test.encrypted`
 
 ### 2eme argument : 
 
-Nombre de bits de la clé (128, 192 ou 256)
+Nombre de bits de la clé
 
 *exemple :*`7`
 
