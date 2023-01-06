@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OFB_Arthur:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OFB_Arthur_jar</output-path>
+    <root id="archive" name="OFB_Arthur.jar">
+      <element id="module-output" name="OFB_Arthur" />
+    </root>
+  </artifact>
+</component>
